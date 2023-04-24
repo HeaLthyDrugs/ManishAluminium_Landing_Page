@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/workspace/Modern_WEB_UI-UX/app/page":["/workspace/Modern_WEB_UI-UX/styles/globals.css"]},"/workspace/Modern_WEB_UI-UX/app/layout.js":["/workspace/Modern_WEB_UI-UX/styles/globals.css"]}
