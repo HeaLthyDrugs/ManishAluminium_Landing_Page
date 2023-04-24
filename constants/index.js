@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Find a Type that suits you and you want to explore',
+  'Enter the Aluminium Styles & Dimension world ',
+  ' protect your home from the chaos of the world outside by choosing Manish Aluminium ',
 ];
 
 export const newFeatures = [

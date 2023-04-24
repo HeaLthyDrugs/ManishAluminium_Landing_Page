@@ -16,25 +16,19 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Metaversus" textStyles="text-center" />
+      <TypingText title="| About Manish Aluminium" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
+        <span className="font-extrabold text-white">Manish Aluminium</span> is a team of experts in the field of aluminium window and door systems, dedicated to providing you with high-quality and innovative solutions for your residential or commercial property.{' '}
         <span className="font-extrabold text-white">
-          madness of the metaverse
+          Slide into Perfection
         </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        by using{' '}
+        <span className="font-extrabold text-white">uPVC</span> Windows & Doors to add an architectural dimension to your home. uPVC windows in India keep out street noise, dust and pollution, rain and gale force winds. At the same time, they are energy efficient, low maintenance, and long-lasting.{' '}
+        <span className="font-extrabold text-white">Explore</span> the Samples & Features by scrolling down
       </motion.p>
 
       <motion.img

@@ -21,17 +21,15 @@ const Feedback = () => (
         <div className="feedback-gradient" />
         <div>
           <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
-            Samantha
+            Vinod Vishwakarma
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-            Founder Metaverus
+            Founder & Owner of Manish Aluminium
           </p>
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          “With the development of today's technology, metaverse is very
-          useful for today's work, or can be called web 3.0. by using
-          metaverse you can use it as anything”
+          “Clients are at the heart of everything we do. We believe in providing high-quality aluminium sliding windows and doors that not only meet their specific needs but exceed their expectations. Our focus is on innovation, quality, and customer satisfaction, and we are dedicated to providing the best possible service to every client.”
         </p>
       </motion.div>
 
