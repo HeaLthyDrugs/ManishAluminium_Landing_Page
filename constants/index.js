@@ -1,49 +1,50 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: 'https://media.istockphoto.com/id/175519337/photo/frosted-bathroom-window.jpg?s=612x612&w=0&k=20&c=UO8E9fZVfuAMrc3d9pQbrp9ZdX4yuOTxA-cNyYI3mTQ=',
+    title: 'uPVC Type',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_cHYHenODp7UM5eer2FnXKJbq5pV2_3lRzA&usqp=CAU',
+    title: 'Louvers Type',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: 'https://media.istockphoto.com/id/157641981/photo/office-park-lobby-with-a-row-of-meeting-chairs.jpg?s=612x612&w=0&k=20&c=WI2AiU_efO4ZFZ79WMogr9gZbFxqk2UOM8wLTMi0UnY=',
+    title: 'Aluminium Type',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    imgUrl: 'https://media.istockphoto.com/id/1126734506/photo/double-tilt-and-turn-aluminum-thermal-break-window-with-vertical-fly-screen-and-rolling.jpg?s=612x612&w=0&k=20&c=RINQ0SgKPinVXB-uc0O2nZMD9SCJC8bFlh8UWz42KiY=',
+    title: 'Casement Type',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    imgUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR371rCzV2tKOSe5iHks7nc1Wb-n0x1kgZUJQ&usqp=CAU',
+    title: 'Combination Type',
   },
 ];
 
 export const startingFeatures = [
-  'Find a Type that suits you and you want to explore',
-  'Enter the Aluminium Styles & Dimension world ',
-  ' protect your home from the chaos of the world outside by choosing Manish Aluminium ',
+' Low Maintenance ',
+'Keeps the Space Clean',
+'Excellent Ventilation & privacy',
+'Keeps Insects Out',
 ];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    imgUrl: 'https://d21xn5q7qjmco5.cloudfront.net/images/windowtype/1629977786.gif',
+    title:'uPVC',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'UPVC, also known as Unplasticized Polyvinyl Chloride, is a low-maintenance building material used as a substitute for painted wood, mostly for window frames and sills when installing double glazing in new buildings, or to replace older single glazed windows',
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
+    imgUrl: 'https://d21xn5q7qjmco5.cloudfront.net/images/windowtype/1629978886.gif',
+    title: 'Aluminium ',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Aluminium is a very sturdy and trendy material to be installed at doors and windows of an estate. It brings in more light and enhance the surroundings as well Being a metal by-product, it is the most secure and safe produce to be installed at any household or commercial space.',
   },
 ];
 
