@@ -27,10 +27,11 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-' Low Maintenance ',
-'Keeps the Space Clean',
-'Excellent Ventilation & privacy',
-'Keeps Insects Out',
+'NOISE INSULATION',
+'BLOCK RAINWATER SEEPAGE',
+'KEEPS INSECTS OUT',
+'PREVENT DUST BUILDUP',
+'COMPLETE DESIGN FREEDOM'
 ];
 
 export const newFeatures = [
@@ -50,29 +51,35 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: 'https://d21xn5q7qjmco5.cloudfront.net/images/windowtype/1629282170-byapp.png',
+    title: 'Living Room',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+    'The living room is the heart of your home where you sit with your family in the evenings, entertain your guests, host parties, and do so much more',
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: 'https://d21xn5q7qjmco5.cloudfront.net/images/windowtype/1626758135-byapp.png',
+    title: 'Kitchen',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+    'Manish Aluminium offers a special range of kitchen window designs that are available in a variety of shapes, sizes, and colours. In addition to this, you also have the option to choose between uPVC and aluminium windows.'
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: 'https://d21xn5q7qjmco5.cloudfront.net/images/windowtype/1629278840-byapp.jpg',
+    title: 'Study Room',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+    'Along with a range of stylish home window designs, Manish Aluminium also offers windows for Study Room spaces. Keeping up the latest trends in interior design, corporate Study Room have also adapted to modern times, making workspaces trendier.'
+  },
+  {
+    imgUrl: 'https://d21xn5q7qjmco5.cloudfront.net/images/windowtype/1626758122-byapp.png',
+    title: 'Bathroom',
+    subtitle:
+    'Add flair, elegance and style to your bathroom with Manish Aluminium range of bathroom windows. Manish Aluminium offers bathroom window designs that are moisture-proof and have a good bearing capacity.'
   },
 ];
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: 'whatsapp',
+    url: 'https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg',
   },
   {
     name: 'linkedin',
