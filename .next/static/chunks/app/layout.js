@@ -8,20 +8,20 @@
  */
 (self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/layout"],{
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fworkspaces%2FModern_WEB_UI-UX%2Fstyles%2Fglobals.css&server=false!":
-/*!***********************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fworkspaces%2FModern_WEB_UI-UX%2Fstyles%2Fglobals.css&server=false! ***!
-  \***********************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fworkspace%2FModern_WEB_UI-UX%2Fstyles%2Fglobals.css&server=false!":
+/*!**********************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fworkspace%2FModern_WEB_UI-UX%2Fstyles%2Fglobals.css&server=false! ***!
+  \**********************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"styles_globals_css\").then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"./styles/globals.css\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTJGd29ya3NwYWNlcyUyRk1vZGVybl9XRUJfVUktVVglMkZzdHlsZXMlMkZnbG9iYWxzLmNzcyZzZXJ2ZXI9ZmFsc2UhLmpzIiwibWFwcGluZ3MiOiJBQUFBLE9BQU8sbUtBQW1GIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/NzVmZiJdLCJzb3VyY2VzQ29udGVudCI6WyIoKCkgPT4gaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImxhenlcIiAqLyBcIi93b3Jrc3BhY2VzL01vZGVybl9XRUJfVUktVVgvc3R5bGVzL2dsb2JhbHMuY3NzXCIpKSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fworkspaces%2FModern_WEB_UI-UX%2Fstyles%2Fglobals.css&server=false!\n"));
+eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"styles_globals_css\").then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"./styles/globals.css\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTJGd29ya3NwYWNlJTJGTW9kZXJuX1dFQl9VSS1VWCUyRnN0eWxlcyUyRmdsb2JhbHMuY3NzJnNlcnZlcj1mYWxzZSEuanMiLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxtS0FBa0YiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz8zZGU4Il0sInNvdXJjZXNDb250ZW50IjpbIigoKSA9PiBpbXBvcnQoLyogd2VicGFja01vZGU6IFwibGF6eVwiICovIFwiL3dvcmtzcGFjZS9Nb2Rlcm5fV0VCX1VJLVVYL3N0eWxlcy9nbG9iYWxzLmNzc1wiKSkiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fworkspace%2FModern_WEB_UI-UX%2Fstyles%2Fglobals.css&server=false!\n"));
 
 /***/ })
 
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fworkspaces%2FModern_WEB_UI-UX%2Fstyles%2Fglobals.css&server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fworkspace%2FModern_WEB_UI-UX%2Fstyles%2Fglobals.css&server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }

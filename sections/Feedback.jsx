@@ -29,7 +29,7 @@ const Feedback = () => (
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          “Clients are at the heart of everything we do. We believe in providing high-quality aluminium sliding windows and doors that not only meet their specific needs but exceed their expectations. Our focus is on innovation, quality, and customer satisfaction, and we are dedicated to providing the best possible service to every client.”
+        "Experience the seamless fusion of form and function with our sleek and stylish aluminium sliding windows and doors - bringing modern elegance and effortless operation to your space."
         </p>
       </motion.div>
 
@@ -38,11 +38,11 @@ const Feedback = () => (
         className="relative flex-1 flex justify-center items-center"
       >
         <img
-          src="/planet-09.png"
+          src="https://images.unsplash.com/photo-1681659324319-8b9f99c5a100?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
           alt="planet-09"
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         />
-
+``
         <motion.div
           variants={zoomIn(0.4, 1)}
           className="lg:block hidden absolute -left-[10%] top-[3%]"
