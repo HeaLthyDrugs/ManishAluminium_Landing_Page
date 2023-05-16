@@ -37,13 +37,13 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: 'https://d21xn5q7qjmco5.cloudfront.net/images/windowtype/1629977786.gif',
-    title:'uPVC',
+    title:'uPVC Type',
     subtitle:
         'UPVC, also known as Unplasticized Polyvinyl Chloride, is a low-maintenance building material used as a substitute for painted wood, mostly for window frames and sills when installing double glazing in new buildings, or to replace older single glazed windows',
   },
   {
     imgUrl: 'https://d21xn5q7qjmco5.cloudfront.net/images/windowtype/1629978886.gif',
-    title: 'Aluminium ',
+    title: 'Aluminium Type',
     subtitle:
         'Aluminium is a very sturdy and trendy material to be installed at doors and windows of an estate. It brings in more light and enhance the surroundings as well Being a metal by-product, it is the most secure and safe produce to be installed at any household or commercial space.',
   },
@@ -79,18 +79,12 @@ export const insights = [
 export const socials = [
   {
     name: 'whatsapp',
-    url: 'https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg',
-  },
-  {
-    name: 'linkedin',
-    url: '/linkedin.svg',
-  },
-  {
-    name: 'instagram',
-    url: '/instagram.svg',
+    url: '/whatsapp.svg',
+    link: 'https://wa.me/+919960165271'
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    link: 'https://www.facebook.com/'
   },
 ];
