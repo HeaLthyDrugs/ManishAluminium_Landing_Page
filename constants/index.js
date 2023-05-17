@@ -3,26 +3,31 @@ export const exploreWorlds = [
     id: 'world-1',
     imgUrl: 'https://media.istockphoto.com/id/175519337/photo/frosted-bathroom-window.jpg?s=612x612&w=0&k=20&c=UO8E9fZVfuAMrc3d9pQbrp9ZdX4yuOTxA-cNyYI3mTQ=',
     title: 'uPVC Type',
+    link: ''
   },
   {
     id: 'world-2',
     imgUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_cHYHenODp7UM5eer2FnXKJbq5pV2_3lRzA&usqp=CAU',
     title: 'Louvers Type',
+    link: ''
   },
   {
     id: 'world-3',
     imgUrl: 'https://media.istockphoto.com/id/157641981/photo/office-park-lobby-with-a-row-of-meeting-chairs.jpg?s=612x612&w=0&k=20&c=WI2AiU_efO4ZFZ79WMogr9gZbFxqk2UOM8wLTMi0UnY=',
     title: 'Aluminium Type',
+    link: ''
   },
   {
     id: 'world-4',
     imgUrl: 'https://media.istockphoto.com/id/1126734506/photo/double-tilt-and-turn-aluminum-thermal-break-window-with-vertical-fly-screen-and-rolling.jpg?s=612x612&w=0&k=20&c=RINQ0SgKPinVXB-uc0O2nZMD9SCJC8bFlh8UWz42KiY=',
     title: 'Casement Type',
+    link: ''
   },
   {
     id: 'world-5',
     imgUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR371rCzV2tKOSe5iHks7nc1Wb-n0x1kgZUJQ&usqp=CAU',
     title: 'Combination Type',
+    link: ''
   },
 ];
 
